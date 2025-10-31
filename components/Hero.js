@@ -5,8 +5,8 @@ export default function Hero() {
     <section className={styles.hero}>
       <h1 className={styles.title}>DISCOVER OUR PRODUCTS</h1>
       <p className={styles.subtitle}>
-        Lorem ipsum dolor sit amet consectetur. Amet est posuere rhoncus scelerisque. Dolor integer
-        scelerisque nibh amet mi ut elementum dolor.
+        Explore our curated collection of sustainable fashion accessories. Each piece tells a story of craftsmanship, 
+        combining timeless design with contemporary elegance. Discover the perfect blend of style and consciousness.
       </p>
     </section>
   )
