@@ -7,9 +7,9 @@ export function Header() {
     <header className={styles.header}>
       <div className={styles.topBanner} role="region" aria-label="Announcements">
         <ul className={styles.bannerList}>
-          <li className={styles.bannerItem}><GiftIcon /> <span>Lorem ipsum dolor</span></li>
-          <li className={styles.bannerItem}><GiftIcon /> <span>Lorem ipsum dolor</span></li>
-          <li className={styles.bannerItem}><GiftIcon /> <span>Lorem ipsum dolor</span></li>
+          <li className={styles.bannerItem}><GiftIcon /> <span>Best quality</span></li>
+          <li className={styles.bannerItem}><GiftIcon /> <span>Exciting Offers</span></li>
+          <li className={styles.bannerItem}><GiftIcon /> <span>Best deals</span></li>
         </ul>
       </div>
 
