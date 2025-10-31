@@ -1,4 +1,4 @@
-# Mettä Musë E-commerce
+# Mettā Muse E-commerce
 
 A modern e-commerce website built with Next.js, featuring a responsive design and a clean user interface.
 
